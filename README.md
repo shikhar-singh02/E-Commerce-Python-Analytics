@@ -1,4 +1,4 @@
-# E-Commerce Business Analytics
+# E-Commerce Python Analytics
 
 ## Python Data Analytics Portfolio Project
 
